@@ -3,7 +3,7 @@ Collects data of students and can sort it lexicographically and filter students 
 
 # Structure 
 The Webpage is divided into two parts. Part looks like this\
-<img width="653" alt="image" src="https://github.com/SiddarthBaruah/StudentAPIWeb/assets/95840068/e4bfe287-4d1b-4d69-9121-5aee2066376e">\
+<img width="653" alt="image" src="https://github.com/SiddarthBaruah/StudentAPIWeb/assets/95840068/e4bfe287-4d1b-4d69-9121-5aee2066376e">
 
 and the part 2 looks like this.\
 <img width="944" alt="image" src="https://github.com/SiddarthBaruah/StudentAPIWeb/assets/95840068/9e7a9c10-e9b7-489f-9600-fb94e0628627">\
