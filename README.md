@@ -67,7 +67,7 @@ In the part 2 section, it takes a input of string and search through the data of
 After Entering the name of the college and clicking the **Search Student**, I have filterd out a table with the name of the students. \
 <img width="948" alt="image" src="https://github.com/SiddarthBaruah/StudentAPIWeb/assets/95840068/823da4e8-1368-4850-b7d8-90c77332426c">
 
-In order to filter I wrote this code.
+***Filter Code***
 ```
 function searchbycollege() {
   var input = document.getElementById("collegename").value;
